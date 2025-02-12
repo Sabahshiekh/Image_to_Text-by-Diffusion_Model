@@ -1,1 +1,3 @@
-# Image_to_Text-by-Diffusion_Model
+# Image_to_Text 
+Final Project of AI-DS Course
+My project, Image Captioning Tool, is an AI-powered application that automatically generates captions for images, just like how we describe pictures in words. Built with Python and Tkinter, it provides a simple and user-friendly interface where users can upload multiple images and instantly get AI-generated descriptions. The tool processes images using the BLIP model, a powerful AI that understands visual content and converts it into meaningful text. The images and captions are displayed in an organized layout, and users can remove any image if needed. This project is useful for tasks like photo organization, content creation, and improving accessibility for visually impaired users by helping them understand images through text descriptions.
